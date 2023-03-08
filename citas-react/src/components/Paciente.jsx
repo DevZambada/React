@@ -36,7 +36,7 @@ const Paciente = ({ paciente, setPaciente }) => {
           type="button"
           className="py-2 px-10 bg-red-600 hover:bg-red-700 text-white font-bold uppercase rounded-lg"
         >
-          Editar
+          Eliminar
         </button>
       </div>
     </div>
