@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 
-const Filtros = (filtro, setFiltro) => {
+const Filtros = ({ filtro, setFiltro }) => {
+  console.log(setFiltro);
   return (
     <div className="filtros sombra contenedor">
       <form>
