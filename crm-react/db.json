@@ -1,0 +1,47 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Max",
+      "telefono": 102013313,
+      "email": "max@react.com",
+      "empresa": "Termos"
+    },
+    {
+      "id": 2,
+      "nombre": "Manuel",
+      "telefono": 138198313,
+      "email": "manuel@react.com",
+      "empresa": "Termos"
+    },
+    {
+      "id": 3,
+      "nombre": "Miguel",
+      "telefono": 31983913,
+      "email": "miguel@react.com",
+      "empresa": "Termos"
+    },
+    {
+      "id": 4,
+      "nombre": "Chuy",
+      "telefono": 319381983,
+      "email": "chuy@react.com",
+      "empresa": "Termos"
+    },
+    {
+      "id": 5,
+      "nombre": "Regina",
+      "telefono": 1398198938,
+      "email": "regina@react.com",
+      "empresa": "Termos"
+    },
+    {
+      "nombre": "Rappi",
+      "empresa": "ITESM",
+      "email": "max.zambada@hotmail.com",
+      "telefono": "8183626418",
+      "notas": "jhvhv",
+      "id": 6
+    }
+  ]
+}
