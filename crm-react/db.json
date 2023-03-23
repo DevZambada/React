@@ -8,11 +8,12 @@
       "empresa": "Termos"
     },
     {
-      "id": 2,
-      "nombre": "Manuel",
-      "telefono": 138198313,
+      "nombre": "Manuel Pelirrojo",
+      "empresa": "Termos",
       "email": "manuel@react.com",
-      "empresa": "Termos"
+      "telefono": "138198313",
+      "notas": "hola",
+      "id": 2
     },
     {
       "id": 3,
@@ -36,12 +37,12 @@
       "empresa": "Termos"
     },
     {
-      "nombre": "Rappi",
+      "nombre": "Pepe",
       "empresa": "ITESM",
       "email": "max.zambada@hotmail.com",
       "telefono": "8183626418",
-      "notas": "jhvhv",
-      "id": 6
+      "notas": "cdsc",
+      "id": 7
     }
   ]
 }
